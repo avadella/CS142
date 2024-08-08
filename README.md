@@ -1,5 +1,5 @@
 # CS142 - Introduction to Computer Science
-**Language: C++**
+**Language: C++**\
 *August - December 2021*
 
 ## Description
