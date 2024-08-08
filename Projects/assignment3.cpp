@@ -41,11 +41,12 @@ int main()
     int additionalCost;
     double tuition;
 
-    //print statements + user input
+    //formatting print statements
     cout << endl;
     cout << "_______________" << endl;
     cout << "** Tuition Cost Calculator! **" << endl;
 
+    //user input + tuition calculations
     while(true)
     {
         cout << "How many credit hours do you want to take (enter 0 to exit): ";
@@ -66,7 +67,7 @@ int main()
 
         cout << "Your tuition bill will be: $" << tuition << "." << endl;
     }
-    
+
     //print statements
     cout << "Will that be cash or check?" << endl;
     cout << "_______________" << endl;
