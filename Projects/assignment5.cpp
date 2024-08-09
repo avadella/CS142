@@ -1,5 +1,5 @@
 /*-------------------------------------------------------------
-Assignment 4: Guessing Game
+Assignment 5: Candy Database
 Developer: Anna Vadella
 Date: October 28, 2021
 -------------------------------------------------------------*/
