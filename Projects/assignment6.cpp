@@ -1,5 +1,5 @@
 /*-------------------------------------------------------------
-Assignment Exam Statistics Program
+Assignment 6: Exam Statistics Program
 Developer: Anna Vadella
 Date: November 4, 2021
 -------------------------------------------------------------*/
