@@ -3,7 +3,7 @@ Language: C++\
 *August - December 2021*
 
 ## Description
-This repository includes all of the projects from my CS142 course at Butler University during the fall 2021 semester. The course provided an introduction to programming in a high-level language and briefly covered topics such as parallel programming for supercomputers, AI, software engineering, and databases.\
+This repository includes all of the projects from my CS142 course at Butler University during the fall 2021 semester. The course provided an introduction to programming in a high-level language and briefly covered topics such as parallel programming for supercomputers, AI, software engineering, and databases.\  
 The "projects" folder includes the original code from the fall 2021 semester, while the "updated projects" folder features revised versions that showcase some improvements and optimizations.
 
 ## Projects 
