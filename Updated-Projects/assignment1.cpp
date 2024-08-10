@@ -1,7 +1,6 @@
 /*-------------------------------------------------------------
 * Assignment 1: Welcome to Class
 * Developer: Anna Vadella
-* Date: September 6, 2021
 *------------------------------------------------------------*/
 #include <iostream>
 using namespace std;

@@ -1,16 +1,11 @@
 /*-------------------------------------------------------------
 Assignment 4: Guessing Game
 Developer: Anna Vadella
-Date: October 4, 2021
 -------------------------------------------------------------*/
 
 #include <iostream>
 #include <ctime>
 using namespace std;
-
-//function declarations
-void playAgain();
-void randomNumberGame();
 
 //function to ask the user if they'd like to play the game again
 void playAgain()

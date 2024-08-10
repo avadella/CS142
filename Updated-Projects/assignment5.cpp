@@ -1,22 +1,11 @@
 /*-------------------------------------------------------------
 Assignment 5: Candy Database
 Developer: Anna Vadella
-Date: October 28, 2021
 -------------------------------------------------------------*/
 
 #include <iostream>
 #include <fstream>
 using namespace std;
-
-//function declarations
-void printMenu();
-int candySum(int &candy1, int &candy2, int &candy3, int &candy4);
-void eatCandy(int &candyEat);
-void trickOrTreat(int candyGet);
-void inventory();
-void candyTypes();
-void saveCandy();
-void loadCandy();
 
 //variable declarations -- global
 int candy1;         //candy corn

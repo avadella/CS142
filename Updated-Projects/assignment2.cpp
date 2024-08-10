@@ -1,7 +1,6 @@
 /*-------------------------------------------------------------
  Assignment 2: Decisions, Decisions
  Developer: Anna Vadella
- Date: September 16, 2021
 -------------------------------------------------------------*/
 
 #include <iostream>

@@ -1,19 +1,11 @@
 /*-------------------------------------------------------------
 Assignment 6: Exam Statistics Program
 Developer: Anna Vadella
-Date: November 4, 2021
 -------------------------------------------------------------*/
 
 #include <iostream>
 #include <fstream>
 using namespace std;
-
-//function declarations
-void loadArray(int createArray[], int &length);
-int minimumScore(int minimum[], int length);
-int maximumScore(int maximum[], int length);
-double averageScore(int average[], int length);
-void gradingScale(int letterGrade[], int length);
 
 //variable declarations -- global
 int letterA;
