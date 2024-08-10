@@ -1,7 +1,7 @@
 /*---------------------------------------------
 * Assignment 7: Secret Message
 * Developer: Anna Vadella
-* Date: 11/11/2021
+* Date: November 11, 2021
 *--------------------------------------------*/
 
 #include <iostream>

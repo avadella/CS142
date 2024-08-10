@@ -1,7 +1,7 @@
 /*---------------------------------------------------
 * Assignment 5: Candy Database
 * Developer: Anna Vadella
-* Date: 10/28/21
+* Date: October 28, 2021
 *---------------------------------------------------*/
 
 #include <iostream>

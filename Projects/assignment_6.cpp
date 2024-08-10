@@ -1,7 +1,7 @@
 /*--------------------------------------------
 * Assignment 6: ES Program
-* Developer: {Anna Vadella}
-* Date: {11/4/2021}
+* Developer: Anna Vadella
+* Date: November 4, 2021
 *-------------------------------------------*/
 
 #include <iostream>

@@ -1,7 +1,7 @@
 /*-------------------------------------------------------------
 * Assignment 4: Guessing Game
 * Developer: Anna Vadella
-* Date: 10/4/21
+* Date: October 4, 2021
 *-------------------------------------------------------------*/
 
 #include <iostream> 
