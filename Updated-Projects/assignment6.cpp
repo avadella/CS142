@@ -35,7 +35,7 @@ void loadArray(int createArray[], int &length)
 int minimumScore(int minimum[], int length)
 {
     int lowestScore = minimum[0];
-    for (int i = 1; i < length; i++) 
+    for(int i = 1; i < length; i++) 
     {
         if(minimum[i] < lowestScore) 
             lowestScore = minimum[i];
@@ -48,7 +48,7 @@ int minimumScore(int minimum[], int length)
 int maximumScore(int maximum[], int length)
 {
     int highestScore = maximum[0];
-    for (int i = 1; i < length; i++) 
+    for(int i = 1; i < length; i++) 
     {
         if(maximum[i] > highestScore) 
             highestScore = maximum[i];
@@ -61,7 +61,7 @@ int maximumScore(int maximum[], int length)
 double averageScore(int average[], int length)
 {
     double avgScore = average[0];
-    for (int i = 1; i < length; i++)
+    for(int i = 1; i < length; i++)
         avgScore += average[i];
 
     avgScore = avgScore/length;

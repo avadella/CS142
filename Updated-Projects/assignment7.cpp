@@ -20,14 +20,15 @@ void determineKey()
 //function which mathematically encrypts a character
 char encrypt(char x)
 {
-    if (x >= 'a' && x <= 'z') {
+    if(x >= 'a' && x <= 'z') 
+    {
         x = (char)((((x - 'a') + key) % 26 + 26) % 26 + 'a');
         //(x - 'a') ----> converts character to an index in the range [0,25]
         //% 26      ----> handles wrapping around the alphabet
         //add 26    ----> ensures the result is non-negative before applying % again
         //add 'a'   ----> converts the index back to the corresponding ASCII character
     }
-    else if (x >= 'A' && x <= 'Z') {
+    else if(x >= 'A' && x <= 'Z') {
         x = (char)((((x - 'A') + key) % 26 + 26) % 26 + 'A');
     }
     return x; 
@@ -36,10 +37,12 @@ char encrypt(char x)
 //function which mathematically decrypts a character
 char decrypt(char x)
 {
-       if (x >= 'a' && x <= 'z') {
+    if(x >= 'a' && x <= 'z') 
+    {
         x = (char)((((x - 'a') - key) % 26 + 26) % 26 + 'a');
     }
-    else if (x >= 'A' && x <= 'Z') {
+    else if(x >= 'A' && x <= 'Z') 
+    {
         x = (char)((((x - 'A') - key) % 26 + 26) % 26 + 'A');
     }
     return x; 
